@@ -42,7 +42,7 @@ I'm **Talha**, a backend-focused full-stack developer building scalable applicat
 
 ---
 
-### [Emiratiyo Investments](https://www.linkedin.com/company/emiratiyo)
+### [Emiratiyo Investments](https://emiratiyo.vercel.app)
 > An Asset management company helping people diversify their investment portfolios and maximize their returns.
 
 **Tech:** `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `Gemini` `n8n` `Unsplash` `Leaflet.js` `Sanity CMS`
